@@ -39,7 +39,7 @@ function f () {
 
         var domBtnStyle = ['style', 'border: 1px solid black; height: 20px;'];
         var domUtilsBtnSettings = [
-            [['id', 'utils-btn-pen:Pen'], ['class', 'utils-tools'], ['value', 'Pen'], ['type', 'button'], domBtnStyle],
+            [['id', 'utils-btn-pen:Pen'], ['class', 'utils-tools active'], ['value', 'Pen'], ['type', 'button'], domBtnStyle],
             [['id', 'utils-btn-rectacngle-empty:RectEmpty'], ['class', 'utils-tools'], ['value', 'Rect Vide'], ['type', 'button'], domBtnStyle],
             [['id', 'utils-btn-rectangle-plain:RectPlain'], ['class', 'utils-tools'], ['value', 'Rect Plein'], ['type', 'button'], domBtnStyle],
             [['id', 'utils-btn-circle-empty:CircleEmpty'], ['class', 'utils-tools'], ['value', 'Circle Vide'], ['type', 'button'], domBtnStyle],
